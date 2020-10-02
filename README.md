@@ -6,6 +6,8 @@ After learning all stack tool I wanted to build somthing real world Application.
 
 # Build status
 <img alt="logo" src="https://img.shields.io/badge/build-passing-green?logo=appveyor&style=for-the-badge">
+<img alt="logo" src="https://img.shields.io/badge/deploy-passing-blue?logo=heroku&style=for-the-badge">
+
 
 # Code Style
 - Server side code **standard**
