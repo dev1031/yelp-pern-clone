@@ -25,3 +25,13 @@ After learning all stack tool I wanted to build somthing real world Application.
 - [React](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 
+# Features
+- All CRUD operations 
+- Reviews System
+- Search operation
+
+# Credits
+Yelp Application
+
+# License
+MIT © Dherendra Dev
