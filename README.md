@@ -5,8 +5,7 @@ Building a yelp clone using PERN stack.
 After learning all stack tool I wanted to build somthing real world Application. This is also my first application using Postgres SQL.
 
 # Build status
-https://img.shields.io/appveyor/build/dev1031/dev1031/yelp-pern-clone?label=build&logo=passing&logoColor=%2352b788&style=flat-square
-
+<img alt ="build" src ="https://img.shields.io/appveyor/build/dev1031/dev1031/yelp-pern-clone?label=build&logo=passing&logoColor=%2352b788&style=flat-square">
 # Code Style
 - Server side code ** standard **
 - Client side code ** PascalCase ** 
